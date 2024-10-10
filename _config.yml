@@ -1,0 +1,11 @@
+# Site settings
+title: Gnouyadou Mazna
+email: gnouyadou.mazna@etu.univ-cotedazur.fr
+description: >- 
+  Welcome :)
+github_username:  romageek
+
+# Build settings
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
